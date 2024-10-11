@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastEndApp.Core", "FastEndApp.Core\FastEndApp.Core.csproj", "{BCAA500F-D751-413B-B8A7-24EE532AB9ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastEndApp.API", "FastEndApp.API\FastEndApp.API.csproj", "{CA08C83D-7645-4119-AD6D-DB3F153F57BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCAA500F-D751-413B-B8A7-24EE532AB9ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCAA500F-D751-413B-B8A7-24EE532AB9ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCAA500F-D751-413B-B8A7-24EE532AB9ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCAA500F-D751-413B-B8A7-24EE532AB9ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA08C83D-7645-4119-AD6D-DB3F153F57BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA08C83D-7645-4119-AD6D-DB3F153F57BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA08C83D-7645-4119-AD6D-DB3F153F57BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA08C83D-7645-4119-AD6D-DB3F153F57BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC3D7E66-E91D-428C-8F62-0698CCF9DB21}
+	EndGlobalSection
+EndGlobal
